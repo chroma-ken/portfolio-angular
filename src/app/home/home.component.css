@@ -2,10 +2,11 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  height: 70vh;
+  height: 80vh;
   background-color: #000000; 
   padding-left: 3rem;
-  background-image: url('/myProfile.jpg');
+  background-position: center 50%;
+  background-size: 72%;
 }
 
 .profile {
